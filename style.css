@@ -561,6 +561,7 @@ nav .fa{
 /*---TESTING----*/
 .HOME-EXPERIENCE{
     overflow-x: visible;
+    background-image: url("leaves-pattern.png");
 }
 .HOME-EXPERIENCE .timeline {
     position: relative;
